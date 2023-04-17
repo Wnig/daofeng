@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="182px" height="88px" viewBox="0 0 182 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>pcEdgelogo@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="PingFangSC-Regular, PingFang SC" font-size="80" font-weight="normal" letter-spacing="-1.92941332" fill="#E15100">
+            <tspan x="249.058827" y="99">E</tspan>
+            <tspan x="298.089413" y="99" font-family="PingFangSC-Thin, PingFang SC" font-weight="300">dge</tspan>
+        </text>
+        <filter x="-4.5%" y="-5.4%" width="112.4%" height="121.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="3" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="1">
+        <g id="刀锋PC端" transform="translate(-252.000000, -40.000000)" fill="#E15100">
+            <g id="pcEdgelogo">
+                <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
